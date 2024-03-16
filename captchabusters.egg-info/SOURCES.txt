@@ -1,0 +1,8 @@
+README.md
+setup.py
+captchabusters/__init__.py
+captchabusters.egg-info/PKG-INFO
+captchabusters.egg-info/SOURCES.txt
+captchabusters.egg-info/dependency_links.txt
+captchabusters.egg-info/requires.txt
+captchabusters.egg-info/top_level.txt
